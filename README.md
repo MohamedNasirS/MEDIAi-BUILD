@@ -53,7 +53,7 @@ MEDIAi uses tools like **Neo4j** or **NetworkX** to construct knowledge graphs t
 # Future Updates 🔔
 MEDIAi is a cutting-edge machine learning model that is under active development. Our team is constantly improving the system to enhance its accuracy, scalability, and ability to tackle misinformation in dynamic environments. While the model already showcases promising results, there is still work to be done to refine its features and expand its capabilities.
 
-In the meantime, you can access a demo version of the MEDIAi machine learning model to explore its current functionality. Check it out using the following link: xyz
+In the meantime, you can access a demo version of the MEDIAi machine learning model to explore its current functionality. Check it out using the following link: **https://github.com/MohamedNasirS/MEDIAi-DEMO.git**
 
 Stay tuned for updates as we continue to develop MEDIAi into a comprehensive solution for misinformation detection and eradication.
 
